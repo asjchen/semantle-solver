@@ -1,5 +1,5 @@
 # Semantle Solver
-Corresponds to my blog post "Writing a Semantle Solver" on [asjchen.github.io](asjchen.github.io).
+Corresponds to my blog post "Writing a Semantle Solver" on [https://asjchen.github.io/](https://asjchen.github.io/).
 
 1. In your favorite virtual environment setup, install `gensim`, say with:
 ```
